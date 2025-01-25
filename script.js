@@ -65,3 +65,6 @@ document.getElementsById('counter').style.backgroundColor = "#D9D9D980"
 document.getElementsById('counter').style.padding = "1000px"
 document.getElementById('counter').style.position = "relative"
 document.getElementById('counter').style.left = "120px"
+
+//selectColor
+document.getElementById('colorPicker').style.color = "white";
